@@ -4,8 +4,6 @@ ASSIGNMENT
 #input from the user
 x=input("Enter the first number : ")
 y=input("Enter the second number : ")
-#Output
-
 print("Addition: ",int(x)+int(y))
 print("Subtraction: ",int(x)-int(y))
 print("Multiplication: ",int(x)*int(y))
